@@ -1,4 +1,4 @@
-#PRIVACY POLICY -- cs-spins.com -- Last update: December 1, 2015
+# PRIVACY POLICY -- cs-spins.com
 
 This Privacy Policy governs the manner in which CSBets collects, uses, maintains and discloses information collected from users (each, a "User") of the http://cs-spins.com website ("Site"). This privacy policy applies to the Site and all products and services offered by CSBets.
 
